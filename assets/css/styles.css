@@ -234,7 +234,7 @@ img {
 /* For small devices */
 
 @media screen and (max-width: 360px) {
-    .login__button {
+    .login__buttons {
         flex-direction: column;
     }
 }
